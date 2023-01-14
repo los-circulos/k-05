@@ -7,6 +7,11 @@ Current version: V3 with adjustable offset
 Recommended for up to 1 - 1.4kg / 2 - 3lbs airplanes, depending on material used for printing.
 Simple PLA prints were tested up to 25-30kg pulls, including safety hook.
 
+My print settings:
+ - layer height: 0.12mm
+ - wall count: 4
+ - infill: cubic 20%
+
 BOM:
  - 1* handle side piece "A"
  - 1* handle middle piece "B"
@@ -18,6 +23,7 @@ BOM:
  - thread to make hooks on chord
  - epoxy to fix thread
  - optional: 6-8mm shrink wrap tube to cover threads
+ - 2 "quick links" to attach cables
 
 Assembly:
  - cautiosly drill bolt holes to 4mm (they are made for a tight fit)
